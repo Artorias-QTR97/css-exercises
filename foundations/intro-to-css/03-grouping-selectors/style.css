@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.ClickMe{
+    background-color: black;
+    color: white;
+}
+.noClick{
+    background-color: yellow;
+}
+
+.ClickMe, .noClick{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
