@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+p:nth-child(2n+1){
+    background-color: rgb(219, 164, 164);
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+#num2{
+    color: #0000ff;
+    font-size: 36px;
+}
+.num3.cooler{
+    font-size: 24px;
+}
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
